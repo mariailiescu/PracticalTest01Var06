@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticalTest01Var06</string>
+    <string name="numar1">2</string>
+    <string name="numar2">3</string>
+    <string name="numar3">1</string>
+    <string name="hold1">hold</string>
+    <string name="hold2">hold</string>
+    <string name="hold3">hold</string>
+    <string name="play">play</string>
+    <string name="gained">Nothing Gained</string>
+    <string name="ok">OK</string>
+</resources>
